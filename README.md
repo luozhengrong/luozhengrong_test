@@ -6,7 +6,7 @@ This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Net
 
 
 <div  align="center">  
- <img src="https://github.com/China-LiuXiaopeng/BraTS-DMFNet/blob/master/fig/Architecture.jpg"
+ <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCnetwork.jpg"
      align=center/>
 </div>
 
