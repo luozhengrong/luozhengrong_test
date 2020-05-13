@@ -52,16 +52,6 @@ python train_all.py --gpu=0,1 --cfg=HDC_Net --batch_size=10
 
 ### Test
 
-**Table. Dice scores for the enhancing tumor, whole tumor and tumor core respevtively** 
-
-| Model         | Params (M) | Dice_ET (%) | Dice_WT (%) | Dice_TC (%) | 
-| :-------------|:----------:|:-----------:|:-----------:|:-----------:|
-| HDCNet        | 0.29 | 80.9  | 89.7  | 84.7  | 
-| HDC+Net       | 0.29 | 81.5  | 89.0  | 84.3  | 
-| HDC++Net      | 0.25 | 81.1  | 89.4  | 84.1  |
-
-Where ET: the enhancing tumor, WT: the whole tumor, TC: the tumor core.
-
 You could obtain the resutls as paper reported by running the following code:
 
 ```
