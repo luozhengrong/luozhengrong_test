@@ -2,9 +2,9 @@
 
 This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation_" based on **pytorch** implementation.The multimodal brain tumor dataset (BraTS 2018) could be acquired from [here](https://www.med.upenn.edu/sbia/brats2018.html).
 
-## HDC network
+## HDC-Net
 
-<center>Architecture of  HDCNet</center>
+<center>Architecture of  HDC-Net</center>
 <div  align="center">  
  <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCnetwork.jpg"
      align=center/>
