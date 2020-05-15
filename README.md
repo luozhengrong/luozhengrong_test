@@ -13,7 +13,7 @@ This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Net
  <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCblock.jpg"
      align=center/>
 </div>
- <center>Architecture of  HDCNet</center>
+<center>Architecture of  HDCNet</center>
 
 
 ## Requirements
