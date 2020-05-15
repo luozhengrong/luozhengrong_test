@@ -4,7 +4,7 @@ This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Net
 
 ## HDC network
 
-
+<center>Architecture of  HDCNet</center>
 <div  align="center">  
  <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCnetwork.jpg"
      align=center/>
@@ -13,7 +13,7 @@ This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Net
  <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCblock.jpg"
      align=center/>
 </div>
-<center>Architecture of  HDCNet</center>
+
 
 
 ## Requirements
